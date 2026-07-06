@@ -1,0 +1,16 @@
+{
+  "name": "Cyberpunk Toolkit",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Sandevistan conditions, weapon ammo/damage tracking, and vehicle passenger grouping for Cyberpunk RED / 2077 games.",
+  "author": "Your Name",
+  "icon": "/icon.svg",
+  "action": {
+    "title": "Cyberpunk Toolkit",
+    "icon": "/icon.svg",
+    "popover": "/action.html",
+    "width": 420,
+    "height": 680
+  },
+  "background_url": "/background.html"
+}
